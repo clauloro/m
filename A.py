@@ -23,3 +23,4 @@ for _ in range(t):
 
     resultado = contar_alumnos_unicos(n, alumnos)
     print(resultado)
+    
